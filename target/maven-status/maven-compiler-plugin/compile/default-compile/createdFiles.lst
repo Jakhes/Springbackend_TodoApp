@@ -1,0 +1,17 @@
+com\codingkraken\TodoApp\repo\TodoRepository.class
+com\codingkraken\TodoApp\model\Label.class
+com\codingkraken\TodoApp\service\TodoService.class
+com\codingkraken\TodoApp\TodoAppApplication.class
+com\codingkraken\TodoApp\model\Todo.class
+com\codingkraken\TodoApp\service\LabelService.class
+com\codingkraken\TodoApp\exception\TodoNotFoundException.class
+com\codingkraken\TodoApp\TodoResource.class
+com\codingkraken\TodoApp\model\Priority.class
+com\codingkraken\TodoApp\repo\LabelRepository.class
+com\codingkraken\TodoApp\repo\UserRepository.class
+com\codingkraken\TodoApp\exception\LabelNotFoundException.class
+com\codingkraken\TodoApp\service\UserService.class
+com\codingkraken\TodoApp\exception\UserNotFoundException.class
+com\codingkraken\TodoApp\security\CorsConfiguration$1.class
+com\codingkraken\TodoApp\model\User.class
+com\codingkraken\TodoApp\security\CorsConfiguration.class
